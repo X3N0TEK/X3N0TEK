@@ -1,8 +1,3 @@
+![image](https://user-images.githubusercontent.com/81451165/142796650-dcb8fb77-e829-40fc-a2a9-246b8b036db6.png)
 
-
-
-
-
-
-<a href="https://app.daily.dev/AdamHale88"><img src="https://api.daily.dev/devcards/e08050b4ca7849c184be174817f57923.png?r=tsr" width="400" alt="Adam Hale Olsey's Dev Card"/></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamHale88&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
