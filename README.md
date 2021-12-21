@@ -29,7 +29,6 @@
 
 ## Features
 ### Built With
-![GitHub language count](https://img.shields.io/github/languages/count/adamhale88/continuous_creations)
 
 - UIKIT
 - Google Fonts
