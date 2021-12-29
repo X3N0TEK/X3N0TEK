@@ -63,17 +63,9 @@
 </p>
 
 
-## How to Contribute
-
-- [Repo](https://https://github.com/AdamHale88/continuous_creations "Continuous Creations")
-
-[![GitHub issues](https://img.shields.io/github/issues/AdamHale88/continuous_creations?style=flat)](https://github.com/AdamHale88/continuous_creations/issues)
-
 ## 🤝 Support
 
 Contributions, issues, and feature requests are welcome!
-
-## Credits
 
 **Adam Olsey**
 
