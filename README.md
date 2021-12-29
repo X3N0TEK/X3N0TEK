@@ -18,9 +18,6 @@
 <p>My name is Adam. Fullstack Web Developer, Full time Father and always learning something new.</p>
 <p>I love music , art, and of course coffee. </p>
 
-## License
-![GitHub](https://img.shields.io/github/license/AdamHale88/continuous_creations)
-
 ## Features
 ### Built With
 
