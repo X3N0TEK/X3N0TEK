@@ -12,12 +12,6 @@
 - [Portfolio ](https://continuouscreations.netlify.app/ "Live View")
 <p>My name is Adam this is a live deployment showcasing my work and a bit of my personality</p>
 
-## Table of Contents 
-- [Bio](#bio)
-- [Features](#features)
-- [Credits](#credits)
-- [License](#license)
-
 ## Bio
 <h1>Hello!</h1>
 
@@ -58,10 +52,8 @@
 - MongoDB
 - Apollo Client
 - Apollo Server
-
-
+  
 </p>
-
 
 ## 🤝 Support
 
