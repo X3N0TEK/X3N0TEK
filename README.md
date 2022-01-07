@@ -21,33 +21,33 @@
 ## Features
 ### Built With
 
-- UIKIT
+- UIkit
+- Bulma
+- Bootstrap 
+- Miligram 
 - Google Fonts
 - Font Awesome 
-- HTML
-- CSS
+- Express Js 
+- Sequalize 
+- Heroku
+- Insomnia
 
 ## Front End Deployments
 <p> 
 
- - UIkit
- - Bulma
- - Bootstrap 
- - Miligram
+ - HTML
+ - CSS
  - React
  - Handlebars
+ - Apollo Client
 
 </p> 
 
 ## Back End Deployments
 <p>
-
-- Express Js 
-- Sequalize 
-- Mysql2
+  
 - Mysql
 - MongoDB
-- Apollo Client
 - Apollo Server
   
 </p>
