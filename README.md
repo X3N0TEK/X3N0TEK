@@ -9,7 +9,7 @@
 # <h1 align="center">Continuous Creations</h1>
 
 ## Description
-- [Portfolio ](https://continuouscreations.netlify.app/ "Live View")
+<!-- - [Portfolio ](https://continuouscreations.netlify.app/ "Live View") -->
 <p>My name is Adam this is a live deployment showcasing my work and a bit of my personality</p>
 
 ## Bio
