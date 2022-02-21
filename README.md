@@ -1,12 +1,7 @@
 
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/81451165/142796650-dcb8fb77-e829-40fc-a2a9-246b8b036db6.png)
-
-</div>
 
 
-# <h1 align="center">Continuous Creations</h1>
+# <h1 align="center">Adam Hale Olsey</h1>
 
 ## Description
 [Portfolio ](https://adamhale.herokuapp.com/ "Live View")
