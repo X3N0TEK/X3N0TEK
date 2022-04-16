@@ -5,7 +5,6 @@
 
 ## Description
 [Portfolio ](https://adamhale.herokuapp.com/ "Live View")
-<p>My name is Adam this is a live deployment showcasing my work and a bit of my personality</p>
 
 ## Bio
 <h1>Hello!</h1>
