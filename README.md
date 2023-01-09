@@ -7,9 +7,7 @@
 
 :family_man_girl_girl: Father of two amaizng daughters! 
 
-Currently just trying to find my super powers! :collision::dizzy:
+Currently finding my super powers! :collision::dizzy:
 
-Oh ,  I kinda have a thing for Trigun
+![](https://github.com/AdamHale88/AdamHale88/blob/main/anime-vash.gif)
 
-
-^^^ Me during Code Review ......
