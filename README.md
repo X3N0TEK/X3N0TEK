@@ -11,7 +11,7 @@
  
 ## ⚡ Tech Signals 
 
->>>> ping Xeno.dev
+> ping Xeno.dev
 - [✔] Python  
 - [✔] JavaScript  
 - [✔] Java  
