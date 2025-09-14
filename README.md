@@ -9,8 +9,8 @@
 - 🛠️ Building projects that shouldn’t exist
 - 🌌 Living in the terminal, drifting between galaxies of code
  
-## ⚡ Tech Signals  
-```bash
+## ⚡ Tech Signals 
+
 > ping Xeno.dev
 [✔] Python  
 [✔] JavaScript  
