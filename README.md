@@ -2,8 +2,6 @@
 
 *"Transmitting strange frequencies into code. Building alien technology one repo at a time."*  
 
----
-
 ## 🛸 About Me 
 
 - 🧬 Learning more languages every orbit 
@@ -11,9 +9,6 @@
 - 🛠️ Building projects that shouldn’t exist
 - 🌌 Living in the terminal, drifting between galaxies of code
  
----
-
-
 ## ⚡ Tech Signals  
 ```bash
 > ping Xeno.dev
