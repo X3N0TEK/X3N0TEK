@@ -10,7 +10,7 @@
 -   🌌   Living in the terminal, drifting between galaxies of code
  
 ## ⚡ Tech Signals 
-
+```
 > ping Xeno.dev
 - [✔] Python  
 - [✔] JavaScript  
