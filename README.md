@@ -1,6 +1,6 @@
 # 👽 𝕏εи๏
 
-> *"Transmitting strange frequencies into code. Building alien technology one repo at a time."*  
+*"Transmitting strange frequencies into code. Building alien technology one repo at a time."*  
 
 ---
 
