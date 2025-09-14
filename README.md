@@ -5,10 +5,10 @@
 ---
 
 ## 🛸 About Me  
-- 🧬 Learning more languages every orbit 
-- 👾 Refusing to code "normal" things 
-- 🛠️ Building projects that shouldn’t exist
-- 🌌 Living in the terminal, drifting between galaxies of code
+🧬 Learning more languages every orbit 
+👾 Refusing to code "normal" things 
+🛠️ Building projects that shouldn’t exist
+🌌 Living in the terminal, drifting between galaxies of code
  
 ---
 
