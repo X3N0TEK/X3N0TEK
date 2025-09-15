@@ -1,5 +1,4 @@
 ![Xenotek Location](https://img.shields.io/badge/Coordinates-RA:13h47m22s_DEC:-05°12′44″-blue?style=for-the-badge&logo=github)
-
 ```Bash
 👽 Building alien technology 
                 one repo at a time  🛸
@@ -16,5 +15,3 @@
 - [✔] JavaScript  
 - [✔] Java  
 - [✔] Coded transmissions in progress...
-
-![Xenotek Location](https://img.shields.io/badge/Coordinates-RA:13h47m22s_DEC:-05°12′44″-blue?style=for-the-badge&logo=github)
