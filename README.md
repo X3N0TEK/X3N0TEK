@@ -7,8 +7,6 @@
 👾  Refusing to code "normal" things
 
 🛠️  Building projects that shouldn’t exist
-
-🌌  Living in the terminal, drifting between galaxies of code
  
 ## 🛰️ Tech Signals 
 ```
