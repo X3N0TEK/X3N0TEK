@@ -1,15 +1,14 @@
-# 👽 𝕏εи๏ 🛸
+```Bash
+👽 Building alien technology 
+        one repo at a time  🛸
 
-*"Building alien technology one repo at a time."*  
-
-🧬  Learning more languages every orbit
+🧬  Learning more every orbit
 
 👾  Refusing to code "normal" things
 
 🛠️  Building projects that shouldn’t exist
- 
-## 🛰️ Tech Signals 
-```
+
+
 > ping Xeno.dev
 - [✔] Python  
 - [✔] JavaScript  
